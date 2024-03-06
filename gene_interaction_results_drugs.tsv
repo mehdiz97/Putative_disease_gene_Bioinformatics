@@ -1,0 +1,12 @@
+gene	drug	regulatory approval	indication	interaction score
+KRT19	PD-98059	Not Approved	""	1.594055510704404
+KRT19	DEXAMETHASONE	Approved	for treatment of Meniere's disease,glucocorticoid,antiinflammatory agent	0.7021434987626541
+CEP43	BRIVANIB	Not Approved	""	10.72364616292053
+KRT18	IL-6	Not Approved	""	1.638334830446193
+KRT18	RIBAVIRIN	Approved	""	0.7970277553522022
+KRT18	MITOMYCIN	Approved	""	1.228751122834644
+KRT18	ANTIVIRAL AGENT	Not Approved	""	3.276669660892386
+AMOT	ROXITHROMYCIN	Not Approved	""	14.74501347401573
+AGBL4	RIFAMPIN	Approved	""	1.28217508469702
+AGBL4	USTEKINUMAB	Approved	Antipsoriatic Agents,DMARD,antiinflammatory agent	2.808573995050616
+CEP72	VINCRISTINE	Approved	antineoplastic agent	0.8307049844515909
